@@ -1,4 +1,5 @@
-#simple Jquery Modal
+# simple Jquery Modal
+
 include simpleModal.css and simpleModal.js in your HTML file
 
 ```html
